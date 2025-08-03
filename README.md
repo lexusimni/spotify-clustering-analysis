@@ -2,7 +2,7 @@
 📊 Advanced Clustering Analysis of Spotify's Top 50 Songs (2019)
 ===============================================================
 
-This project performs an advanced, multi-method clustering analysis on Spotify’s 2019 Top 50 Songs dataset. Using both classical and modern clustering techniques — k-Means, Spectral Clustering, and HDBSCAN — we explore the natural groupings of songs based on their audio features such as energy, danceability, and valence. We support findings with UMAP and t-SNE visualizations, silhouette metrics, and SHAP explainability.
+This project performs an advanced, multi-method clustering analysis on Spotify’s 2019 Top 50 Songs dataset. Using both classical and modern clustering techniques; k-Means, Spectral Clustering, and HDBSCAN, we explore the natural groupings of songs based on their audio features such as energy, danceability, and valence. We support findings with UMAP and t-SNE visualizations, silhouette metrics, and SHAP explainability.
 
 🎯 Project Objective
 --------------------
