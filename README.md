@@ -106,5 +106,5 @@ This analysis shows that even with only acoustic features, unsupervised clusteri
 
 🔗 Author & Contact
 ---------------------
-LinkedIn: https://www.linkedin.com/in/alexus-glass  
-GitHub: https://github.com/lexusimni  
+[LinkedIn](https://www.linkedin.com/in/alexus-glass-248061237)
+[GitHub](https://github.com/lexusimni)  
